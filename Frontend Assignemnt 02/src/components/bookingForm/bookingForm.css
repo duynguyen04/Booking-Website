@@ -1,0 +1,52 @@
+.container {
+  width: 76%;
+}
+.container1 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+.inputForm {
+  width: 80%;
+  height: 35px;
+  margin-bottom: 23px;
+}
+.container2 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 45% 45%;
+}
+.container2-2 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 70% 28%;
+  margin-bottom: 15px;
+}
+.container2-3 {
+  width: 100%;
+  display: flex;
+}
+.container2-3_1 {
+  margin-right: 5px;
+}
+.finalCheck__button button {
+  border: none;
+  border-radius: 5px;
+  background-color: #0071c2;
+  color: white;
+  padding: 0.8rem 3rem;
+}
+.finalCheck__wrapper {
+  display: flex;
+  align-items: center;
+  column-gap: 4rem;
+  height: 6rem;
+}
+.finalCheck__options {
+  border: 1px solid #cdcdcd;
+  border-radius: 5px;
+  padding: 0.5rem 0.8rem;
+  background-color: #efefef;
+  width: 45%;
+  height: 50px;
+}

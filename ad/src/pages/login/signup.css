@@ -1,0 +1,25 @@
+.form_ault {
+  margin: auto;
+}
+.Signup {
+  position: absolute;
+  top: 20%;
+  left: 44%;
+  margin: auto;
+}
+.fromInput {
+  margin-bottom: 10px;
+  width: 235px;
+  height: 40px;
+}
+.fromInput input {
+  width: 235px;
+  height: 40px;
+}
+.btnsign {
+  color: white;
+  background-color: #0071c2;
+  border: none;
+  width: 243px;
+  height: 40px;
+}

@@ -1,0 +1,50 @@
+.info {
+  display: flex;
+  margin-top: 13px;
+}
+.info .title {
+  padding: 3px;
+  width: 23%;
+  margin-left: 13px;
+  border-radius: 6px;
+  box-shadow: 1px 1px 3px gray;
+  height: 80px;
+  position: relative;
+}
+.title-info {
+  margin: 0;
+  text-align: top;
+}
+.title-count {
+  margin: 3px 0px 3px 0px;
+}
+.dashboard__icon {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  width: 2rem;
+  height: 2rem;
+  bottom: 10px;
+  right: 10px;
+}
+.icon__user {
+  background-color: #ffcccc;
+  color: #e43d5c;
+}
+.icon__order {
+  background-color: #f8edd2;
+  color: #e3ba53;
+}
+.icon__earning {
+  background-color: #cce6cc;
+  color: #299429;
+}
+.icon__balance {
+  background-color: #e6cce6;
+  color: #9a359a;
+}
+.dashboard__icon svg {
+  width: 1rem;
+}

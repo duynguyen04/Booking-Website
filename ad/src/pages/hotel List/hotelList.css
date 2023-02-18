@@ -1,0 +1,17 @@
+.btn-all {
+  position: absolute;
+  right: 1rem;
+  top: 0rem;
+  border: 1px solid green;
+  border-radius: 5px;
+  background-color: white;
+  text-decoration: none;
+}
+.title-1 {
+  position: relative;
+}
+td button {
+  margin-right: 2px;
+  border: 2px dashed red;
+  border-radius: 5px;
+}

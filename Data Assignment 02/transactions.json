@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "63b988b5c4c65af7725c9a31"
+  },
+  "user": "duynguyen",
+  "hotel": {
+    "$oid": "6311bf37f2fce6ea18172fb6"
+  },
+  "room": [
+    101,
+    102
+  ],
+  "dateStart": {
+    "$date": {
+      "$numberLong": "1673456400000"
+    }
+  },
+  "dateEnd": {
+    "$date": {
+      "$numberLong": "1674147600000"
+    }
+  },
+  "price": 700,
+  "payment": "Cash",
+  "status": "booked",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b988d3c4c65af7725c9a33"
+  },
+  "user": "duynguyen",
+  "hotel": {
+    "$oid": "6311bf37f2fce6ea18172fb6"
+  },
+  "room": [
+    101,
+    102,
+    202,
+    205,
+    203
+  ],
+  "dateStart": {
+    "$date": {
+      "$numberLong": "1673456400000"
+    }
+  },
+  "dateEnd": {
+    "$date": {
+      "$numberLong": "1674147600000"
+    }
+  },
+  "price": 1750,
+  "payment": "Cash",
+  "status": "booked",
+  "__v": 0
+}]

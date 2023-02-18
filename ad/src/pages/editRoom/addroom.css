@@ -1,0 +1,32 @@
+.form {
+  display: grid;
+  grid-template-columns: 49% 49%;
+  gap: 10px;
+}
+.slect-featured {
+  width: fit-content;
+}
+.select-room {
+  width: 200%;
+}
+.btn-send {
+  background-color: #008080;
+  width: 130px;
+  height: 38px;
+  color: white;
+  border: none;
+  margin-top: 20px;
+}
+.container-form {
+  margin-left: 13px;
+}
+.container-title {
+  box-shadow: 5px 4px 9px gray;
+  height: 40px;
+}
+.roomList {
+  overflow-y: auto;
+  height: 160px;
+  margin-top: 15px;
+  width: 200%;
+}
